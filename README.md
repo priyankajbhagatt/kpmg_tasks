@@ -17,8 +17,7 @@ Providers are plugins that Terraform requires so that it can install and use for
 ------------------------------------------------------------
 Website Script
 ------------------------------------------------------------
-Create a new directory for this Terraform project.
-A file named install_apache.sh , will install an Apache web server on our instances and create a unique landing page for each so we can verify the Application Load Balancer is working.
+A file named install_apache.sh is present  , it will install an Apache web server on our instances and create a unique landing page for each so we can verify the Application Load Balancer is working.
 
 
 ------------------------------------------------------------
