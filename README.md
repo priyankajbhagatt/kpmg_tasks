@@ -28,14 +28,14 @@ Configure terraform files for all the resources
 Create a single main.tf file and add each of the resouces sections to the main.tf file or create individual resource files as in our case.
 From the terminal in the Terraform directory containing install_apache.sh and main.tf run terraform init
 
-VPC and Subnets, Internet Gateway and Route Table : main.tf
-Web Servers : ec2.tf
-Security Groups : sg.tf
-Application Load Balancer : alb.tf
-RDS Instance :db.tf
-Variable File : var.tf
-Output : output.tf
-Enviornmnet variable file : dev.tfvars
+1. VPC and Subnets, Internet Gateway and Route Table : main.tf
+2. Web Servers : ec2.tf
+3. Security Groups : sg.tf
+4. Application Load Balancer : alb.tf
+5. RDS Instance :db.tf
+6. Variable File : var.tf
+7. Output : output.tf
+8. Enviornmnet variable file : dev.tfvars
 
 
 ------------------------------------------------------------
