@@ -27,5 +27,7 @@ MetaDate URL is metadata_url = 'http://169.254.169.254/latest/'
 - Open the repository on your instance
 - Install project dependancies
   - `pipenv install`
+- Run script :
+  - `python3 get_metadata.py`
 
 
