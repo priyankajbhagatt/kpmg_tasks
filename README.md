@@ -1,5 +1,6 @@
-# kpmg_tasks_Challenge 2
-to write code that will query the meta data of an instance within AWS and provide a json formatted output. 
+# kpmg_Challenge2
+
+To write code that will query the meta data of an instance within AWS and provide a json formatted output. 
 
 
 
